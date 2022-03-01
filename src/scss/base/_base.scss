@@ -1,0 +1,24 @@
+@use '../abstracts' as *;
+
+body {
+  font-family: $ff-base;
+  font-size: $fs-base;
+  color: $fc-base;
+  font-weight: 400;
+  background-color: $bgc-base;
+
+  display: grid;
+  place-content: center;
+}
+
+.visually-hidden {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: auto;
+  margin: 0;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+  white-space: nowrap;
+}
