@@ -1,8 +1,0 @@
-@use '../abstracts' as *;
-
-.container {
-  display: grid;
-  grid-template: 1fr min-content / 1fr;
-  padding: 0 2rem;
-  height: 100%;
-}
