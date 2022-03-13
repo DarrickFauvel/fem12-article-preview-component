@@ -1,5 +1,5 @@
 {
-  "name": "fem00-vite-sass-starter",
+  "name": "fem00-vite-open-props-starter",
   "private": true,
   "version": "0.0.0",
   "scripts": {
@@ -8,7 +8,6 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "sass": "^1.49.9",
     "vite": "^2.8.0"
   }
 }
