@@ -275,4 +275,12 @@ body {
 /* Footer */
 .attribution {
   text-align: center;
+  font-size: 0.7rem;
+  color: var(--orange-6);
+}
+.attribution a {
+  color: var(--gray-8);
+}
+.attribution a:hover {
+  text-decoration-color: var(--orange-6);
 }
