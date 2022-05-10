@@ -108,6 +108,13 @@ body {
   padding-bottom: var(--size-3);
 }
 
+@media (min-width: 730px) {
+  .card__content {
+    padding-inline: 40px;
+    padding-block: 32px;
+  }
+}
+
 .content__title {
   color: var(--independence);
   font-size: var(--font-size-1);
