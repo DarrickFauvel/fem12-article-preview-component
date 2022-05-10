@@ -74,7 +74,6 @@ body {
   height: calc((200 / 16) * 1rem);
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
-  filter: brightness(1.1);
   overflow: hidden;
 }
 
