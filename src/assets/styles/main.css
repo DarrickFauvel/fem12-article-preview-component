@@ -170,7 +170,8 @@ body {
 }
 
 .content__date {
-  color: #9daec2;
+  color: var(--cadet-blue-crayola);
+  font-weight: var(--font-weight-5);
 }
 
 /* Sharing overlay */
