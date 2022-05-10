@@ -159,7 +159,7 @@ body {
 
 .author__avatar {
   border-radius: var(--radius-round);
-  width: var(--size-8);
+  width: 40px;
 }
 
 .author__name {
