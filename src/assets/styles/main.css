@@ -134,6 +134,12 @@ body {
   line-height: var(--font-lineheight-4);
 }
 
+@media (min-width: 730px) {
+  .content__intro {
+    margin-bottom: 20px;
+  }
+}
+
 /* Content meta */
 .content__meta {
   display: flex;
