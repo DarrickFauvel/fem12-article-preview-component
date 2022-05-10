@@ -155,6 +155,8 @@ body {
 
 .author__details {
   display: grid;
+  font-size: calc((13 / 16) * 1rem);
+  letter-spacing: calc((0.12 / 13) * 1em);
 }
 
 .author__avatar {
