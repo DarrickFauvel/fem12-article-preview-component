@@ -229,6 +229,7 @@ body {
 
 .share__title {
   text-transform: uppercase;
+  letter-spacing: calc((5 / 13) * 1rem);
   margin-top: 2px;
 }
 
