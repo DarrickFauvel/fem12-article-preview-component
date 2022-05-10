@@ -63,7 +63,7 @@ body {
 
 @media (min-width: 730px) {
   .card {
-    grid-template: 1fr / 40% 60%;
+    grid-template: 1fr / 39% 61%;
     grid-template-areas: 'image content';
     max-width: 730px;
   }
