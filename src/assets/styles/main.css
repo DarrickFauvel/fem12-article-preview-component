@@ -134,11 +134,11 @@ body {
   line-height: var(--font-lineheight-4);
 }
 
-@media (min-width: 730px) {
+/* @media (min-width: 730px) {
   .content__intro {
-    margin-bottom: 20px;
+    margin-bottom: 0;
   }
-}
+} */
 
 /* Content meta */
 .content__meta {
