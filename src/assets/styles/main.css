@@ -276,11 +276,15 @@ body {
 .attribution {
   text-align: center;
   font-size: 0.7rem;
-  color: var(--orange-6);
+  color: var(--gray-6);
 }
 .attribution a {
-  color: var(--gray-8);
+  color: var(--orange-7);
+  text-decoration: underline;
+  text-decoration-color: var(--orange-3);
+  transition: 0.3s;
 }
 .attribution a:hover {
-  text-decoration-color: var(--orange-6);
+  color: var(--orange-9);
+  text-decoration-color: var(--orange-9);
 }
