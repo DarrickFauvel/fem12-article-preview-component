@@ -167,6 +167,10 @@ body {
   color: var(--independence);
 }
 
+.content__date {
+  color: #9daec2;
+}
+
 /* Sharing overlay */
 .sharing-overlay {
   position: absolute;
