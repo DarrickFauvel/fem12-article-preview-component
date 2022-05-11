@@ -322,6 +322,7 @@ body {
   color: var(--gray-6);
 }
 .attribution a {
+  width: max-content;
   color: var(--orange-7);
   text-decoration: underline;
   text-decoration-color: var(--orange-3);
