@@ -312,10 +312,9 @@ body {
   height: 2em;
   min-width: 100%;
 }
+
 .attribution {
   text-align: center;
-}
-.attribution p {
   font-size: 0.7rem;
   color: var(--gray-6);
 }
