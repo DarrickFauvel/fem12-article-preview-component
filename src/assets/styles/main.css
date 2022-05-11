@@ -310,7 +310,6 @@ body {
   justify-content: center;
   align-items: flex-end;
   height: 2em;
-  min-width: 100%;
 }
 
 .attribution {
