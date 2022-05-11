@@ -132,13 +132,14 @@ body {
 .content__intro {
   font-size: var(--font-size-0);
   line-height: var(--font-lineheight-4);
+  margin-bottom: 2em;
 }
 
-/* @media (min-width: 730px) {
+@media (min-width: 730px) {
   .content__intro {
-    margin-bottom: 0;
+    margin-bottom: 0.5em;
   }
-} */
+}
 
 /* Content meta */
 .content__meta {
