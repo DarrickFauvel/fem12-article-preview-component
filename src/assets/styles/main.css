@@ -314,7 +314,10 @@ body {
 }
 
 .attribution {
-  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.25em;
   font-size: 0.7rem;
   color: var(--gray-6);
 }
