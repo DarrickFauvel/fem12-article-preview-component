@@ -126,7 +126,7 @@ body {
   .content__title {
     font-size: calc((20 / 16) * 1rem);
     line-height: calc(28 / 20);
-    letter-spacing: calc((0.25/20) * 1em);
+    letter-spacing: calc((0.25 / 20) * 1em);
   }
 }
 
@@ -139,7 +139,7 @@ body {
 
 @media (min-width: 730px) {
   .content__intro {
-    margin-bottom: 0.25em;
+    margin-bottom: 0.5em;
   }
 }
 
