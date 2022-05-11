@@ -91,6 +91,7 @@ body {
   height: 100%;
   object-fit: cover;
   object-position: center calc((-20 / 16) * 1em);
+  filter: brightness(1.025);
 }
 
 @media (min-width: 730px) {
