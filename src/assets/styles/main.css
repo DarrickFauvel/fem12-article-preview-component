@@ -314,7 +314,7 @@ body {
 }
 .attribution {
   text-align: center;
-  min-width: 100%;
+  width: 327px;
   font-size: 0.7rem;
   color: var(--gray-6);
 }
