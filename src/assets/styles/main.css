@@ -19,7 +19,6 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-
   font-family: 'Manrope', var(--font-sans);
   font-size: var(--body-fs);
   color: var(--body-fc);
@@ -43,7 +42,7 @@ body {
 }
 
 @media (min-width: 730px) {
-  /* To offset the 2em footer height for FEM screenshot */
+  /* To offset the 2em footer height for FEM screenshot centering */
   .main {
     margin-block-start: 2em;
   }
@@ -79,8 +78,8 @@ body {
   height: calc((200 / 16) * 1rem);
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
-  overflow: hidden;
   background-color: #fff;
+  overflow: hidden;
 }
 
 @media (min-width: 730px) {
@@ -112,8 +111,8 @@ body {
   display: grid;
   gap: 12px;
   padding-inline: var(--size-5);
-  padding-top: var(--size-6);
-  padding-bottom: var(--size-3);
+  padding-block-start: var(--size-6);
+  padding-block-end: var(--size-3);
 }
 
 @media (min-width: 730px) {
