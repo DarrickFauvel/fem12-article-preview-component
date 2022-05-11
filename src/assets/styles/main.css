@@ -126,13 +126,14 @@ body {
   .content__title {
     font-size: calc((20 / 16) * 1rem);
     line-height: calc(28 / 20);
-    letter-spacing: 0.25px;
+    letter-spacing: calc((0.25/20) * 1em);
   }
 }
 
 .content__intro {
-  font-size: var(--font-size-0);
-  line-height: var(--font-lineheight-4);
+  font-size: calc((13 / 16) * 1rem);
+  line-height: calc(20 / 13);
+  letter-spacing: calc((0.12 / 13) * 1em);
   margin-bottom: 2em;
 }
 
