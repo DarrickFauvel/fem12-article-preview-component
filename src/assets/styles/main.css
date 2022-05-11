@@ -197,7 +197,7 @@ body {
 
 @media (min-width: 730px) {
   .sharing-overlay {
-    bottom: calc((93 / 16) * 1em);
+    bottom: calc((120 / 16) * 1em);
     right: 0;
     transform: translateY(16px);
     width: 248px;
@@ -210,7 +210,7 @@ body {
   .sharing-overlay::after {
     position: absolute;
     content: '';
-    right: calc((30 / 16) * 1em);
+    right: calc((52 / 16) * 1em);
     bottom: -11px;
     width: 0;
     height: 0;
@@ -226,24 +226,13 @@ body {
   }
 }
 
-@media (min-width: 800px) {
-  .sharing-overlay::after {
-    right: calc((30 / 16) * 1em);
-  }
-
-  .card.active .sharing-overlay {
-    transform: translateY(0);
-    opacity: 1;
-  }
-}
-
 @media (min-width: 900px) {
   .sharing-overlay {
     right: calc((-68 / 16) * 1em);
   }
 
   .sharing-overlay::after {
-    right: calc((98 / 16) * 1em);
+    right: calc((120 / 16) * 1em);
   }
 }
 
