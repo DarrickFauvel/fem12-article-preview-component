@@ -254,6 +254,7 @@ body {
 
 .share {
   display: flex;
+  align-items: center;
   gap: var(--size-3);
 }
 
