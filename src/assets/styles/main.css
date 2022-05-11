@@ -42,6 +42,13 @@ body {
   width: 1px;
 }
 
+@media (min-width: 730px) {
+  /* To offset the 2em footer height for FEM screenshot */
+  .main {
+    margin-block-start: 2em;
+  }
+}
+
 .container {
   margin-inline: var(--size-3);
   /* border: 1px solid red; */
