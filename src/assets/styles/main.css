@@ -216,7 +216,7 @@ body {
   .sharing-overlay::after {
     position: absolute;
     content: '';
-    right: calc((52 / 16) * 1em);
+    right: calc((60 / 16) * 1em);
     bottom: -11px;
     width: 0;
     height: 0;
@@ -238,7 +238,7 @@ body {
   }
 
   .sharing-overlay::after {
-    right: calc((120 / 16) * 1em);
+    right: calc((125 / 16) * 1em);
   }
 }
 
