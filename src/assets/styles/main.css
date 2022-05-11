@@ -309,6 +309,10 @@ body {
 /* Footer */
 .footer {
   /* display: none; */
+  display: flex;
+  align-items: flex-end;
+  height: 2em;
+  /* background-color: pink; */
 }
 .attribution {
   text-align: center;
