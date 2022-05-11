@@ -301,7 +301,7 @@ body {
 
 /* Footer */
 .footer {
-  display: none;
+  /* display: none; */
 }
 .attribution {
   text-align: center;
