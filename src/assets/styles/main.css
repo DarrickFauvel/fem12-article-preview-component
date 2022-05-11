@@ -119,6 +119,7 @@ body {
   color: var(--independence);
   font-size: var(--font-size-1);
   line-height: var(--font-lineheight-3);
+  min-width: 100%;
 }
 
 @media (min-width: 730px) {
