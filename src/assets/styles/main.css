@@ -314,7 +314,7 @@ body {
   /* min-width: 100%; */
 }
 .attribution {
-  min-width: 100%;
+  width: max-content;
   font-size: 0.7rem;
   color: var(--gray-6);
 }
