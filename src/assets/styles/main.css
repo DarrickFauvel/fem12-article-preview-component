@@ -313,6 +313,7 @@ body {
   min-width: 100%;
 }
 .attribution {
+  text-align: center;
   width: 400px;
   font-size: 0.7rem;
   color: var(--gray-6);
