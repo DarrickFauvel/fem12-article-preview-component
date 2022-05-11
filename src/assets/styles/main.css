@@ -125,7 +125,7 @@ body {
   .content__title {
     font-size: calc((20 / 16) * 1rem);
     line-height: calc(28 / 20);
-    letter-spacing: calc((0.25 / 16) * 1rem);
+    letter-spacing: 0.25px;
   }
 }
 
