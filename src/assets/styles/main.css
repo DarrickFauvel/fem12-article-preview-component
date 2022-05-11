@@ -160,6 +160,7 @@ body {
   display: grid;
   font-size: calc((13 / 16) * 1rem);
   letter-spacing: calc((0.12 / 13) * 1em);
+  gap: calc((-4 / 16) * 1em);
 }
 
 .author__avatar {
