@@ -102,7 +102,7 @@ body {
 .card__content {
   grid-area: content;
   display: grid;
-  gap: var(--size-3);
+  gap: 12px;
   padding-inline: var(--size-5);
   padding-top: var(--size-6);
   padding-bottom: var(--size-3);
